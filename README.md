@@ -6,9 +6,6 @@ spring_boot
 1. http://localhost:8001/apis/girls/5
 2. http://localhost:8001/apis/girls
 
-# Wxtyt_POST_DATA
-http://localhost:8001/apis/girls
-http://localhost:8001/apis/girls/5
 ####数据库配置文件
 1. /src/main/resource/application.yml
 
