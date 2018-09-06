@@ -10,7 +10,7 @@ spring:
       max-request-size: 1000Mb
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/laravel?characterEncoding=utf8
+    url: jdbc:mysql://localhost:3306/demo?characterEncoding=utf8
     username: root
     password: root
   jpa:

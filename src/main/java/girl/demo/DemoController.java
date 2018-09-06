@@ -22,6 +22,10 @@ public class DemoController {
         return demoRepository.findAll();
     }
 
+    @GetMapping(value = "/myurl")
+    public String demoMyUrl() {
+        return  "imoos";
+    }
 
     /**
      * 添加数据
